@@ -2,7 +2,6 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 import org.json.JSONObject;
-
 import java.io.IOException;
 import java.util.Scanner;
 
@@ -26,6 +25,5 @@ public class CurrenciesRestAPI {
         double value = result.getDouble("value");
         System.out.println("Result: " + value*amountUserInput);
         System.out.println("Thanks for using our currency converter");
-
     }
 }
