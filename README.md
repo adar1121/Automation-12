@@ -1,5 +1,5 @@
 # Automation-12
-DB Question result located at dogSQL.png in project folder
+DB Question result located at project folder name "dogSQL.png"
 
 
 
